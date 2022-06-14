@@ -9,7 +9,7 @@
     <Authors>VatanAPI</Authors>
     <Company>VatanAPI</Company>
     <Product>VatanAPI</Product>
-    <StartupObject>CodersHomeAPI.Program</StartupObject>
+    <StartupObject>VatanAPI.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
